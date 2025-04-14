@@ -57,7 +57,7 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 > Proyecto educativo sobre análisis forense de memoria con Volatility3.
 
-- 🧪 Tecnologías: Next.js, TypeScript, Tailwind, Markdown
+- 🧪 Tecnologías: Next.js, TypeScript, Tailwind, React
 - 📂 [Repositorio](https://github.com/KevinSoto9/ComoUsarVolatility)
 
 ---
