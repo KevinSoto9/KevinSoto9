@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Kevin Andrés Soto Briceño</h1>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/008/612/703/non_2x/html-code-on-computer-monitor-software-web-developer-programming-code-photo.jpg" alt="Kevin Soto" width="200" />
+  <img src="https://static.vecteezy.com/system/resources/previews/008/612/703/non_2x/html-code-on-computer-monitor-software-web-developer-programming-code-photo.jpg" alt="Kevin Soto" width="100%" />
 </p>
 
 <p align="center">
@@ -98,7 +98,3 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 - 💼 **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/kevin-andr%C3%A9s-soto-brice%C3%B1o-833a8a31b)  
 
 ---
-
-<p align="center">
-  💡 *"Transformando ideas en código. Siempre aprendiendo, siempre creando."*
-</p>
