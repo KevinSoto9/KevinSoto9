@@ -51,6 +51,18 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 ## 🚀 Proyectos Destacados
 
+### 🔠 [TypeScript links](https://type-script-links.vercel.app/)
+
+![TypeScript Links](https://portfolio-kevinsoto9s-projects.vercel.app/projects/TypeScriptLinks.webp)
+
+> Repositorio de recursos y ejemplos de TypeScript.
+
+- 🧪 Tecnologías: HTML5, Tailwind
+- 📂 [Repositorio](https://github.com/KevinSoto9/TypeScript-links)
+
+---
+
+
 ### 🔍 [Como Usar Volatility3](https://como-usar-volatility.vercel.app/)
 
 ![Volatility3](https://portfolio-kevinsoto9s-projects.vercel.app/projects/Volatility.webp)
