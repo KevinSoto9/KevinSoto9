@@ -52,7 +52,7 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 ### 🛍️ [ShopRadar](https://shopradarweb.vercel.app/)
 
-![ShopRadar](https://portfolio-kevinsoto9s-projects.vercel.app/projects/TypeScriptLinks.webp)
+![ShopRadar](https://portfolio-kevinsoto9s-projects.vercel.app/projects/ShopRadar.webp)
 
 > ShopRadar es una aplicación web frontend de demostración para buscar y comparar precios de productos en diferentes tiendas.
 
