@@ -46,10 +46,20 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 - Desarrollo de aplicación para gestión de citas médicas.
 - Apoyo en la infraestructura de red interna.
 - Tecnologías usadas: PHP, React, JS.
-
 ---
 
 ## 🚀 Proyectos Destacados
+
+### 🛍️ [ShopRadar](https://shopradarweb.vercel.app/)
+
+![ShopRadar](https://portfolio-kevinsoto9s-projects.vercel.app/projects/TypeScriptLinks.webp)
+
+> ShopRadar es una aplicación web frontend de demostración para buscar y comparar precios de productos en diferentes tiendas.
+
+- 🧪 Tecnologías: React.js, Tailwind, TypeScript
+- 📂 [Repositorio](https://github.com/KevinSoto9/ShopRadar)
+
+---
 
 ### 🔠 [TypeScript links](https://type-script-links.vercel.app/)
 
