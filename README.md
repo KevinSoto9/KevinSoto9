@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Kevin Andrés Soto Briceño</h1>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/008/612/703/non_2x/html-code-on-computer-monitor-software-web-developer-programming-code-photo.jpg" alt="Kevin Soto" width="100%" />
-</p>
-
-<p align="center">
   💻 Desarrollador Web Full Stack | 🛡️ Apasionado por la ciberseguridad<br>
   📍 Marbella, Málaga, España  
 </p>
