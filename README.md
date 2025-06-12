@@ -35,6 +35,21 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 ## 💼 Experiencia
 
+### 💼 Diseñador/a y Desarrollador/a Web Freelance
+**Bangkok Thai Massage**  
+📅 Mayo 2025 – Junio 2025
+
+- Diseño visual acorde a la identidad del negocio
+- Desarrollo de una web responsive compatible con móviles y tablets
+- Creación de una estructura clara y fácil de navegar
+- Integración de contenido, imágenes y Google Maps
+- Soporte técnico y mantenimiento posterior al lanzamiento
+
+🌐[Sitio Web](https://bangkokthaimassagemarbella.es/)
+
+![BangkokThaiMassage](https://portfolio-kevinsoto9s-projects.vercel.app/projects/BangkokThaiMassage.webp)
+
+
 ### 👨‍💻 Programador Web Junior (Prácticas)  
 **Hospital Ochoa - Marbella**  
 📅 Abril 2024 – Junio 2024
