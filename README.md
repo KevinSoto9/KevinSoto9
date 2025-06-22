@@ -23,7 +23,7 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 ## 🎓 Educación
 
 - 🎓 **Curso de Especialización en Ciberseguridad**  
-  *MEDAC* — 2025 (en curso)
+  *MEDAC* — 01/2025 - 06/2025
 
 - 🎓 **Grado Superior en Desarrollo de Aplicaciones Web**  
   *I.E.S Salduba* — 2022 - 2024
