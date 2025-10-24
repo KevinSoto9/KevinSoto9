@@ -1,9 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Kevin Andrés Soto Briceño</h1>
-
-<p align="center">
-  💻 Desarrollador Web Full Stack | 🛡️ Apasionado por la ciberseguridad<br>
-  📍 Marbella, Málaga, España  
-</p>
+<img src="1761128627361.png">
 
 <p align="center">
   <a href="mailto:KevinS9sotob@hotmail.com">📧 Email</a> • 
