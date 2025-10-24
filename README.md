@@ -30,7 +30,7 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 ## 💼 Experiencia
 
-### 💼 Diseñador/a y Desarrollador/a Web Freelance - Construcciones Soto
+### 💼 Diseñador y Desarrollador Web Freelance - Construcciones Soto
 **Construcciones Soto**  
 📅 Septiembre 2025 – Octubre 2025
 
@@ -44,7 +44,7 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 ![BangkokThaiMassage](https://portfolio-kevinsoto9s-projects.vercel.app/projects/ConstruccionesSoto.webp)
 
 
-### 💼 Diseñador/a y Desarrollador/a Web Freelance - Bangkok Thai Massage
+### 💼 Diseñador y Desarrollador Web Freelance - Bangkok Thai Massage
 **Bangkok Thai Massage**  
 📅 Mayo 2025 – Junio 2025
 
