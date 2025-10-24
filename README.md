@@ -4,7 +4,7 @@
   <a href="mailto:KevinS9sotob@hotmail.com">📧 Email</a> • 
   <a href="https://portfolio-kevinsoto9s-projects.vercel.app/">🌐 Portafolio</a> • 
   <a href="https://github.com/KevinSoto9">💻 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/kevin-andr%C3%A9s-soto-brice%C3%B1o-833a8a31b/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kevinsotob/">🔗 LinkedIn</a>
 </p>
 
 ---
