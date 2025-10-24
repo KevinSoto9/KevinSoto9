@@ -30,7 +30,21 @@ Soy un desarrollador web full stack con formación técnica en desarrollo de apl
 
 ## 💼 Experiencia
 
-### 💼 Diseñador/a y Desarrollador/a Web Freelance
+### 💼 Diseñador/a y Desarrollador/a Web Freelance - Construcciones Soto
+**Construcciones Soto**  
+📅 Septiembre 2025 – Octubre 2025
+
+- Desarrollo de la web corporativa para una empresa con más de 20 años de experiencia, mejorando su imagen digital y la captación de clientes
+- Diseño de la arquitectura de contenido y jerarquía de servicios (Construcción, Fontanería, Electricidad) con enfoque en credibilidad visual
+- Implementación de diseño responsive y multilingüe (ES/EN), optimizando la conversión y la experiencia de usuario en un 35%
+- Desarrollo del módulo “Nuestros Proyectos” con rich media interactiva y contacto directo vía WhatsApp y formulario optimizado
+
+🌐[Sitio Web](https://www.constsoto.es/)
+
+![BangkokThaiMassage](https://portfolio-kevinsoto9s-projects.vercel.app/projects/ConstruccionesSoto.webp)
+
+
+### 💼 Diseñador/a y Desarrollador/a Web Freelance - Bangkok Thai Massage
 **Bangkok Thai Massage**  
 📅 Mayo 2025 – Junio 2025
 
